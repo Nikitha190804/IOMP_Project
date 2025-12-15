@@ -17,7 +17,7 @@ __pycache__/
 instance/
 back/instance/
 uploads/
-back/uploads/
+
 
 # ===============================
 # Machine Learning Artifacts
@@ -26,7 +26,7 @@ back/uploads/
 *.keras
 *.pkl
 training/dataset/
-back/models/
+
 
 # ===============================
 # Node / React
